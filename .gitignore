@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+
+# ML artifacts
+artifacts/
+simulation_training_data.csv
+
+# Logs
+*.log
